@@ -1,0 +1,1 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=io.gh6497.apollo.spring.cloud.ApolloCloudAutoConfiguration
